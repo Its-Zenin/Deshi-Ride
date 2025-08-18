@@ -55,7 +55,7 @@ If you want to customize it, install [Git](https://git-scm.com/).
 1. Install Xampp Stable Version-7.4.33 in your System or go to this link [Xampp_7.4.33](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/) and Download Xampp
 2. Clone the repo
    ```sh
-   git clone https://github.com/Istiaq-Alam/Car-Rental-Website.git
+   git clone https://github.com/Its-Zenin/Deshi-Ride.git
    ```
    Or Download the Zip file and Extract it into you htdocs folder
 3. Start Apache and mySQL server in Xampp
