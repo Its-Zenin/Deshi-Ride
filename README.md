@@ -93,6 +93,23 @@ Use this project as:
 
 See the [open issues](https://github.com/Istiaq-Alam/Car-Rental-Website/issues) for a full list of proposed features (and known issues).
 
+## Contributors 
+[x] [Zenin-Jarir](https://github.com/Its-Zenin) [Mail]()
+[x] [Istiaq Alam](https://github.com/Istiaq-Alam): [istiaqlm@gmail.com](mailto:istiaqlm@gmail.com)
+
+Project Link: [https://github.com/Istiaq-Alam/Car-Rental-Website](https://github.com/Istiaq-Alam/Car-Rental-Website)
+
+## License
+
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+
+## Acknowledgments
+
+* [Best README Template](https://github.com/othneildrew/Best-README-Template)
+* [Bootstrap](https://getbootstrap.com)
+* [Font Awesome](https://fontawesome.com)
+* [Unsplash](https://unsplash.com) for free images
+
 ## Contributing
 
 Contributions are what make the open-source community amazing. Any contributions you make are **greatly appreciated**.
@@ -104,20 +121,3 @@ Contributions are what make the open-source community amazing. Any contributions
 5. Open a Pull Request
 
 Don’t forget to ⭐ the project if you find it useful!
-
-## License
-
-Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
-
-## Contact
-- [Zenin-Jarir](https://github.com/Its-Zenin) [Mail]()
-- [Istiaq Alam](https://github.com/Istiaq-Alam): [istiaqlm@gmail.com](mailto:istiaqlm@gmail.com)
-
-Project Link: [https://github.com/Istiaq-Alam/Car-Rental-Website](https://github.com/Istiaq-Alam/Car-Rental-Website)
-
-## Acknowledgments
-
-* [Best README Template](https://github.com/othneildrew/Best-README-Template)
-* [Bootstrap](https://getbootstrap.com)
-* [Font Awesome](https://fontawesome.com)
-* [Unsplash](https://unsplash.com) for free images
