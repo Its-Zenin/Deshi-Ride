@@ -110,8 +110,8 @@ Don’t forget to ⭐ the project if you find it useful!
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
 
 ## Contact
-[Zenin-Jarir](https://github.com/Its-Zenin) - [Mail]()
-[Istiaq Alam](https://github.com/Istiaq-Alam) - [istiaqlm@gmail.com](mailto:istiaqlm@gmail.com)
+- [Zenin-Jarir](https://github.com/Its-Zenin) [Mail]()
+- [Istiaq Alam](https://github.com/Istiaq-Alam): [istiaqlm@gmail.com](mailto:istiaqlm@gmail.com)
 
 Project Link: [https://github.com/Istiaq-Alam/Car-Rental-Website](https://github.com/Istiaq-Alam/Car-Rental-Website)
 
