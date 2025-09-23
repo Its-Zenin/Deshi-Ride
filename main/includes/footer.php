@@ -58,6 +58,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
               <button type="submit" name="emailsubscibe" class="btn btn-block">Subscribe <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></button>
             </form>
             <p class="subscribed-text">*We send great deals and latest auto news to our subscribed users very week.</p>
+            <p class="subscribed-text">Copyright &copy Deshi Ride</p>
           </div>
         </div>
       </div>
