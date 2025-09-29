@@ -95,9 +95,9 @@ See the [open issues](https://github.com/Istiaq-Alam/Car-Rental-Website/issues) 
 
 ## Contributors 
 * [x] [Zenin-Jarir](https://github.com/Its-Zenin) [Mail]()
-* [x] [Istiaq Alam](https://github.com/Istiaq-Alam): [istiaqlm@gmail.com](mailto:istiaqlm@gmail.com)
 
-Project Link: [https://github.com/Istiaq-Alam/Car-Rental-Website](https://github.com/Istiaq-Alam/Car-Rental-Website)
+
+
 
 ## License
 
